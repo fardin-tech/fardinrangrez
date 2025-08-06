@@ -43,12 +43,9 @@
 
 ### 📬 Connect with Me
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-- 📊 Kaggle: [kaggle.com/yourusername](https://kaggle.com/yourusername)  
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com) *(if any)*
+- 📧 Email: fardeenrangrezz@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/fardin-rangrez-9ab498259)
+- 📊 Kaggle: https://kaggle.com/fardinrangrezz
 
 ---
-
-### 🔹 GitHub Tagline (Profile Header Bio):
 
