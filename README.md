@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Fardin
+###  Hi, I'm Fardin
 
 🎓 3rd Year BSc Mathematics (Hons) Student — Delhi University  
 💻 AI/ML & Deep Learning Enthusiast  
