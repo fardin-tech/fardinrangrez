@@ -10,6 +10,7 @@
 
 #### 📊 Core ML & DL
 - Supervised & Unsupervised Learning
+- Transfer Learning & Fine-tunning
 - Neural Networks (MLP, CNN, RNN, LSTM, GRU)
 - ✅ Keras (Completed up to GRU)
 - 🧪 PyTorch (Learning, up to GRU)
@@ -26,11 +27,17 @@
 
 #### ⚙️ MLOps
 - ✅ 1 Project Completed (Model deployment & pipeline basics)
+- Code versioning
+- Data versioning
 - Model versioning, CI/CD basics
+- Model buidling
+- Model registry
+- Model scalibility & deployment
+  
 
 #### 🛠️ Tools & Libraries
-- NumPy, Pandas, Scikit-learn, Matplotlib
-- Keras, PyTorch, Jupyter, Git
+- NumPy, Pandas, Scikit-learn, Matplotlib,Seaborn,Optuna
+- Keras, PyTorch, Jupyter, Git, GithubAction, Mlflow, Dvc, Docker, Fastapi, Kubernetes, Aws, Flask
 
 ---
 
